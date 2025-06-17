@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a7cfef60-97f9-496f-9241-90badcc07f05)# dashboard_AssinaturasGamePass
+## dashboard_AssinaturasGamePass
 
 # Projeto realizado com a DIO: Dashboard de vendas de assinaturas do Xbox
 
